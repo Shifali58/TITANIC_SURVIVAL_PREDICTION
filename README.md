@@ -1,2 +1,19 @@
 # TITANIC_SURVIVAL_PREDICTION
-Predicting the Survival of Titanic Passengers IN PYTHON 
+
+INTRODUCTION:
+Its a training project and this file consist of python coding that contains the prediction of TITANIC_SURVIVAL. 
+first, you need to download both the CSV Files.
+
+PACKAGE:
+numpy;
+matplotlib;
+pandas
+seaborn;
+sklearn;
+scipy
+
+ALGORITHM:
+Logistic Regression.
+
+CONCLUSION:
+PREDICTING TITANIC_SURVIVAL AND VISUALIZES DATA BY APPLYING ALGORITHM WHICH GIVES THE BEST ACCURACY TO THE MODEL AT THE CORE RATE OF 80%. AT LAST YOU WILL SEE THE CONFUSION MATRICS WHICH SHOWS THE ACTUAL TRUE AND PREDICTED TRUE.
